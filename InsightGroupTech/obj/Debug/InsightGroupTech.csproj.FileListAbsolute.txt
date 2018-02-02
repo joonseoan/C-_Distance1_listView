@@ -1,0 +1,10 @@
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\bin\Debug\InsightGroupTech.exe.config
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\bin\Debug\InsightGroupTech.exe
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\bin\Debug\InsightGroupTech.pdb
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.csprojResolveAssemblyReference.cache
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.Form1.resources
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.Properties.Resources.resources
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.csproj.GenerateResource.Cache
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.csproj.CoreCompileInputs.cache
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.exe
+c:\users\joona\source\repos\InsightGroupTech\InsightGroupTech\obj\Debug\InsightGroupTech.pdb
